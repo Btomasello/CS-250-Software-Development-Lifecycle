@@ -1,4 +1,4 @@
-# CS-250
+# CS-250 Final Project
 
 How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
 It's important and essential to consider who you are creating for. A program for a specific audience can only be made if there is an understanding of that groups wants and needs. So, first things first would be to research your demographic and know how they want the program to function. This can always change as time goes on, and that is why it is important to remain flexible. There's always the possibility that more features will need to be implemented or cut in the final build. User stories give a glimpse into the persepctive of the end user. If there is positive or negative feedback, the development team can use this to further design the product. To summarize, interpreting user needs is only possible if you understand them, so proper research is necessary. End user factors such as user stories are just one way that the audience can connect with the development team and help to create the final image of the program.
